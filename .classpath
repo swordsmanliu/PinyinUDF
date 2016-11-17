@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="lib" path="/udf/lib/hadoop-common-2.7.2.jar"/>
+	<classpathentry kind="lib" path="/udf/lib/hadoop-mapreduce-client-core-2.7.2.jar"/>
+	<classpathentry kind="lib" path="/udf/lib/hive-ant-1.3.0.jar"/>
+	<classpathentry kind="lib" path="/udf/lib/hive-beeline-1.3.0.jar"/>
+	<classpathentry kind="lib" path="/udf/lib/hive-cli-1.3.0.jar"/>
+	<classpathentry kind="lib" path="/udf/lib/hive-common-1.3.0.jar"/>
+	<classpathentry kind="lib" path="/udf/lib/hive-exec-1.3.0.jar"/>
+	<classpathentry kind="lib" path="/udf/lib/hive-metastore-1.3.0.jar"/>
+	<classpathentry kind="lib" path="/udf/lib/hive-serde-1.3.0.jar"/>
+	<classpathentry kind="lib" path="/udf/lib/hive-shims-0.23-1.3.0.jar"/>
+	<classpathentry kind="lib" path="/udf/lib/hive-shims-common-1.3.0.jar"/>
+	<classpathentry kind="lib" path="lib/pinyin4j.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
